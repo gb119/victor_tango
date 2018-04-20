@@ -25,9 +25,16 @@ The macros can be imported at the standard ipython console with::
     vt.organics.set_target(...)
     vt.organics.gow(....)
 
+Documentation
+-------------
+
+Current documentation can be fond on this repository's `gh-pages`_ branch:
+
 License, Copyright and Authors
 ------------------------------
 
 This code is Licensed under a 3-clause BSD license - see LICENSE.txt. 
 
 This code is (C) University of Leeds, 2018 and was written by Gavin Burnell and Mannan Ali
+
+.. _gh-pages:  https://gb119.github.io/victor_tango/
